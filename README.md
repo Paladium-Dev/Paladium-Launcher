@@ -3,7 +3,7 @@
 <h1>Paladium Launcher</h1>
 
 <p>
-    <img src="https://img.shields.io/badge/version-1.0.0--beta.1(0.0.01--d14)-yellow.svg?style=for-the-badge" alt="version">
+    <img src="https://img.shields.io/badge/version-1.0.0--beta.1(0.0.01--d15)-dark_green.svg?style=for-the-badge" alt="version">
 </p>
 
 
