@@ -9,7 +9,7 @@
 ---
 
 <p>
-    Basé sur le travail de Daniel Scalzi ([https://github.com/dscalzi/HeliosLauncher](https://github.com/dscalzi/HeliosLauncher))
+    Basé sur le travail de Daniel Scalzi (https://github.com/dscalzi/HeliosLauncher)
 </p>
 
 ---
